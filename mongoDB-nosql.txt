@@ -1,0 +1,11 @@
+// tracking collection
+{
+  "_id": ObjectId("..."),
+  "order_id": 123,
+  "driver_id": 456,
+  "location": {
+    "latitude": 10.762622,
+    "longitude": 106.660172
+  },
+  "timestamp": ISODate("2025-04-16T11:30:00Z")
+}
